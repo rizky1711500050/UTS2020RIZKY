@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "800559508886",
+    "firebase_url": "https://utsrizky.firebaseio.com",
+    "project_id": "utsrizky",
+    "storage_bucket": "utsrizky.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800559508886:android:ac14adc4b56729548a81b7",
+        "android_client_info": {
+          "package_name": "com.asus.uts_amub_ti7a_1711500050_rizky"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800559508886-n4plg6l4q66ukve2itgp7d2bh3d7ue76.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4g8NXOcaoLe_d7tKbf2s57kc0isOUR6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800559508886-n4plg6l4q66ukve2itgp7d2bh3d7ue76.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
